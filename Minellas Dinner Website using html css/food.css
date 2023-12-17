@@ -1,0 +1,309 @@
+*{
+    background-color: white;
+    margin: 0;
+    padding: 0;
+}
+.main{
+    display: inline-block;
+    text-align: center;
+}
+.logo{
+   
+    text-align: center;
+    width: 400px;
+    height: 150px;
+    display: inline-block;
+
+}
+img{
+    padding-top: 50px;
+    padding-left: 200px;
+}
+.header
+{
+    text-align:center;
+    width: 1000px;
+    height: 125px;
+    text-decoration: none;
+    padding: 10px;
+    display: inline-block;
+    position: relative;
+    bottom:100px
+    
+}
+
+a{
+    color: black;
+    text-align: center;
+    position: relative;
+    top:60px;
+    text-decoration: none;
+    font-size:large; padding: 30px;
+}
+button{
+    width: 160px;
+    height: 45px;
+    border-color: black;
+    border-width: 3px;
+    position: relative;
+    top:60px;
+    text-align: center;
+    margin: 10px;
+}
+button:hover{
+    background-color: rgba(0, 0, 0, 0.073);
+}
+
+#hotelpic{
+    margin-left: 0px;
+    position: relative;
+    bottom: 90px;
+    padding: 0px;
+    margin-top: 0px;
+}
+.text{
+    width: 225px;
+    font-size: 68px;
+    font-weight: 900;
+    position: absolute;
+    top: 129px;
+    background-color: #000;
+    opacity: .6;
+    left: 16px;
+    color:white;
+}
+.imagealt
+{
+   
+    position: relative;
+    bottom: 330px;
+    margin: 0;
+    padding: 0;
+}
+#img1{
+    padding: 20px;
+    padding-left: 250px;
+    margin: 0;
+}
+
+#img2{
+    padding: 20px;
+    margin: 0;
+}
+#img3{
+    padding: 20px;
+    margin: 0;
+}
+#about{
+    width: 600px;
+    position: relative;
+    bottom:90px;
+    left: 500px;
+   
+    text-align: justify;
+}
+.p1{
+    font-weight: 900;
+    font-size: 50px;
+    line-height: 120px;
+}
+.p2{
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 70px;
+}
+.p3{
+    font-weight: 400;
+    font-size: 20px;
+}
+.about1{
+    position: relative;
+    bottom:80px;
+    display: inline-block;
+    
+    height: 700px;
+}
+.inner{
+    
+    width:50%;
+    display: inline-block;
+}
+#smile{
+    padding: 0;;
+    display:inline-block;
+    position: relative;
+    top:150px;
+    left:200px;
+    border-radius: 270px;
+}
+.inner1{
+    background-color: beige;
+    position: relative;
+    left:750px;
+    bottom:400px;
+    width:40%;
+}
+#para1{
+    font-size: 40px;
+    font-weight: 800;
+}
+#para2{
+    padding-top: 25px;
+    font-size: 22px;
+    font-weight: 500;
+    line-height: 35px;
+}
+#poetry{
+    position: relative;
+    bottom: 380px;
+      width: 100%;
+      height: 250px;
+      background-color: grey;
+}
+#poetry1{
+    position: relative;
+    left: 475px;
+    top: 50px;
+    width:530px;
+    text-align: center;
+    font-size: 23px;
+    font-weight: 800;
+    background-color: grey;
+}
+#poetry2{
+    position: relative;
+    left: 475px;
+    top: 50px;
+    width:530px;
+    text-align: center;
+    font-size: 18px;
+    font-weight: 600;
+    background-color:grey;
+}
+#poet{
+    background-color: grey;
+}
+
+.ily{
+ width: 100%;
+ height:500px;
+ position: relative;
+ bottom:300px;
+ background-color:antiquewhite;
+}
+.ily2{
+    width: 400px;
+    text-align: center;
+    position: relative;
+    left:70px;
+    top:40px;
+    background-color: antiquewhite;
+}
+.img123{
+    background-color: antiquewhite;
+}
+.ily3{
+    background-color: antiquewhite;
+    position: relative;
+    width: 500px;
+    left:840px;
+    bottom: 315px;
+
+}
+.id1{
+    font-size: 20px;
+    font-weight: 700;
+    background-color: antiquewhite;
+}
+.id2{
+    font-size: 40px;
+    font-weight: 900;
+    background-color: antiquewhite;
+}
+.c1{
+    font-size: 18px;
+    line-height: 35px;
+    font-weight: 500;
+    background-color: antiquewhite;
+}
+.c2{
+    padding-left: 40px;
+    font-size: 18px;
+    line-height: 20px;
+    list-style-type: none;
+    background-color: antiquewhite;
+}
+.special{
+    width: 100%;
+    height:300px;   
+    position: relative;
+    bottom: 280px;
+    background-color: white;
+    height: 450px;
+    
+}
+.special1{
+    width: 550px;
+    text-align: center;
+    position: relative;
+    top: 20px;
+    left:250px;
+}
+#paraa{
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 90px;
+}
+.paraa1{
+    font-size: 22px;
+    font-weight: 600;
+}
+.special2{
+    width: 430px;
+    height: 250px;;
+    position: relative;
+    bottom: 73px;
+    left:850px;
+    font-size: 60px;
+    line-height: 45px;
+    border-color: rgba(128, 128, 128, 0.211);
+    border: 3px;
+}
+input{
+    height: 45px;
+    width: 400px;
+    line-height: 45px;
+    
+}
+form{
+    line-height: 60px;
+}
+#message{
+    border-color: rgba(128, 128, 128, 0.211);
+    text-align:start;
+    position: relative;
+    top: 21px;
+    resize: none;
+    border: 2px;
+}
+#fname{
+    position: relative;
+    bottom: 3px;
+}
+.paraa2{
+    padding-top: 25px;
+    font-size: 15px;
+    line-height: 20px;
+    font-weight: 300;
+    color: rgba(128, 128, 128, 0.963);
+}
+#submit{
+     width: 120px;
+     position: absolute;
+     top: 330px;
+}
+hr{
+    position: relative;
+    bottom:225px;
+    margin: 0px 100px;
+}
